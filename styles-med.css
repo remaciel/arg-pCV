@@ -113,12 +113,13 @@ ul
   grid-row: 1;
   color: #21211F ;  
  margin-top: 20%;
-  margin-left: 15%;
+  margin-left: 20%;
   margin-right: 10%;
   margin-bottom: 3%;
   padding-left: 30%;
   padding-right: 30%;
   pointer-events: none;
+overflow-y: hidden;
 }
 
   .elemento1 { 
