@@ -94,6 +94,7 @@ ul
   pointer-events: none;
   margin-left: 60px;
   margin-right: 60px;
+align-content: center;
 }
 .profile 
 { grid-column: 1;
