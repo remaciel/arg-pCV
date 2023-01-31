@@ -22,8 +22,8 @@ document.getElementById("boton1").addEventListener("click", function()
 })
 
 document.getElementById("boton2").addEventListener("click", function() 
-{       document.getElementById("footer1").style.color = "#000000"; 
-   document.getElementById("boton2").style.visibility = "hidden"; 
+{   document.getElementById("footer1").style.color = "#000000"; 
+    document.getElementById("boton2").style.visibility = "hidden"; 
     document.getElementById("boton1").style.visibility = "visible";
     document.getElementById("body").style.backgroundBlendMode = "normal";
     document.getElementById("body").style.backgroundColor = "#ffffff";
