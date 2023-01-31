@@ -62,7 +62,7 @@ ul
   }
 
   h3 {
-    font-size: 50pt;
+    font-size: 35pt;
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 1000pt;
@@ -114,11 +114,12 @@ ul
   color: #21211F ; 
   font-size: 24px;  
   font-family: 'Varela Round', sans-serif;
-  margin-top: 55%;
-  margin-left: 11%;
-  margin-right: 50%;
-  margin-bottom: 25%;
-padding-left: 50;
+ margin-top: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 3%;
+  padding-left: 30%;
+  padding-right: 30%;
   pointer-events: none;
 }
 
