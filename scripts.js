@@ -22,9 +22,7 @@ document.getElementById("boton1").addEventListener("click", function()
 })
 
 document.getElementById("boton2").addEventListener("click", function() 
-{   document.getElementById("footer1").style.color = "#000000"; 
-    document.getElementById("footer1").backgroundColor = "#344E41"; 
-    document.getElementById("boton2").style.visibility = "hidden"; 
+{   document.getElementById("boton2").style.visibility = "hidden"; 
     document.getElementById("boton1").style.visibility = "visible";
     document.getElementById("body").style.backgroundBlendMode = "normal";
     document.getElementById("body").style.backgroundColor = "#ffffff";
@@ -36,6 +34,7 @@ document.getElementById("boton2").addEventListener("click", function()
     document.getElementById("grid4").style.backgroundBlendMode = "screen";
     document.getElementById("elemento1").style.color = "#344E41";
     document.getElementById("elemento2").style.color = "#21211F";
+     document.getElementById("footer1").style.color = "#000000";
     document.getElementById("parrafos").style.color = "#344E41";
 
 
