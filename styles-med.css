@@ -120,6 +120,8 @@ ul
   padding-right: 30%;
   pointer-events: none;
 overflow-y: hidden;
+	align-content: center;
+	align-items: center;
 }
 
   .elemento1 { 
