@@ -97,7 +97,7 @@ ul
 align-content: center;
 }
 .profile 
-{ grid-column: 1;
+{ grid-column: 1 /span 3;
   grid-row: 1;
   pointer-events: none;
   margin-top: 6px;
