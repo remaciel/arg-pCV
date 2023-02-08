@@ -112,9 +112,9 @@ ul
   font-size: 24px;  
   font-family: 'Varela Round', sans-serif;
   margin-top: -120px;
-  margin-left: 3%;
+  margin-left: 0;
   margin-bottom: 1%;
-  padding-left: 0%;
+  padding-left: 1%;
   padding-right: 2%;
   pointer-events: none;
 }
