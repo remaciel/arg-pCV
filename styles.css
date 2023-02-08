@@ -101,15 +101,18 @@ ul
   }
 
 
-.profile 
-{ margin-left: 50px;
-  margin-top: 10px;
+.profilediv
+{ grid-column: 1;
+
+}
+
+#profile
+{ margin-left: 110px;
+  margin-top: 90px;
   padding-top: 80px;
-  pointer-events: none;
   padding-right: 0px;
-  grid-column: 1;
-  width: 350px;
-  height: 350px;
+  width: 400px;
+  height: 400px;
   pointer-events: none;
 }
 

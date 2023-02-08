@@ -95,17 +95,18 @@ ul
   margin-left: 60px;
   margin-right: 60px;
 }
-.profile 
-{ grid-column: 1;
-  grid-row: 1;
-  pointer-events: none;
-  margin-top: 6px;
+
+.profilediv
+{grid-column: 1;
+
 }
 
   .elemento1 { 
+    grid-column: 1/ span 2;
     grid-row: 2;
-    padding-right: 50px;
+    padding-right: 20px;
     padding-bottom: 50px;
+    padding-left: 25px;
     padding-top: 0px;
     margin-top: 0px;
   }

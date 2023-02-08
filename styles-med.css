@@ -102,24 +102,22 @@ ul
   }
 
 #profile {
-  grid-column: 1;
   width: 350px;
   height: 350px;
   pointer-events: none;
 }
 
-.profile 
-{ grid-column: 1 /span 3;
+.profilediv 
+{ grid-column: 2 / span 4;
   grid-row: 1;
   color: #21211F ; 
   font-size: 24px;  
   font-family: 'Varela Round', sans-serif;
   margin-top: 20%;
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-bottom: 3%;
-  padding-left: 30%;
-  padding-right: 30%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
   pointer-events: none;
 }
 
