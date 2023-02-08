@@ -94,6 +94,9 @@ ul
   pointer-events: none;
   margin-left: 60px;
   margin-right: 60px;
+  overflow-x: hidden;
+  margin-top: 10%;
+
 }
 
 .profilediv
