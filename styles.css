@@ -100,22 +100,17 @@ ul
     column-gap: 20px;
   }
 
-#profile {
+
+.profile 
+{ margin-left: 100px;
+  margin-top: 100px;
+  padding-top: 90px;
+  pointer-events: none;
+  padding-right: 0px;
   grid-column: 1;
   width: 350px;
   height: 350px;
   pointer-events: none;
-}
-
-.profile 
-{ color: #21211F ; 
-  font-size: 24px;  
-  font-family: 'Varela Round', sans-serif;
-  margin-left: 100px;
-  margin-top: 100px;
-  padding-top: 90px;
-  pointer-events: none;
-  padding-right: 10px;
 }
 
   .elemento1 { 
