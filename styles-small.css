@@ -87,20 +87,14 @@ ul
       width: auto;
   }
 
-
-#profile {
-  width: 260px;
-  height: 260px;
-  pointer-events: none;
-  margin-left: 60px;
-  margin-right: 60px;
-align-content: center;
 }
 .profile 
 { grid-column: 1 /span 3;
   grid-row: 1;
   pointer-events: none;
-  margin-top: 6px;
+  width: 260px;
+  height: 260px;
+  pointer-events: none;
 }
 
   .elemento1 { 
