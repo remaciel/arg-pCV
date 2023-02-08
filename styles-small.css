@@ -89,7 +89,7 @@ ul
 
 }
 .profile 
-{ grid-column: 1 /span 3;
+{ grid-column: 2 /span 3;
   grid-row: 1;
   pointer-events: none;
   width: 260px;
