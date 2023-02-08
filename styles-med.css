@@ -102,14 +102,13 @@ ul
   }
 
 #profile {
-  grid-column: 1 /span 3;
   width: 350px;
   height: 350px;
   pointer-events: none;
 }
 
 .profile 
-{ grid-column: 1 /span 2;
+{ grid-column: 1 /span 3;
   grid-row: 1;
   color: #21211F ;  
  margin-top: 20%;
