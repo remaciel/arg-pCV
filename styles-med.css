@@ -102,6 +102,7 @@ ul
   }
 
 #profile {
+  grid-column: 1;
   width: 350px;
   height: 350px;
   pointer-events: none;
@@ -110,15 +111,16 @@ ul
 .profile 
 { grid-column: 1 /span 3;
   grid-row: 1;
-  color: #21211F ;  
- margin-top: 20%;
+  color: #21211F ; 
+  font-size: 24px;  
+  font-family: 'Varela Round', sans-serif;
+  margin-top: 20%;
   margin-left: 10%;
   margin-right: 10%;
-  margin-bottom: 5%;
+  margin-bottom: 3%;
   padding-left: 30%;
-  padding-right: 30%;	
+  padding-right: 30%;
   pointer-events: none;
-overflow-y: hidden;
 }
 
   .elemento1 { 

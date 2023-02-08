@@ -108,7 +108,14 @@ ul
 }
 
 .profile 
-{ pointer-events: none;
+{ color: #21211F ; 
+  font-size: 24px;  
+  font-family: 'Varela Round', sans-serif;
+  margin-left: 100px;
+  margin-top: 100px;
+  padding-top: 90px;
+  pointer-events: none;
+  padding-right: 10px;
 }
 
   .elemento1 { 
@@ -210,12 +217,11 @@ ul
     grid-row: 2;
     padding-top: 20px;
     padding-bottom: 60px;
-    color: #000000; 
+    color: #000000 ; 
     font-size: 24px ; 
     font-family: 'Varela Round', sans-serif;
     font-weight: 600pt;
     text-align: center;
-
 
     
 
