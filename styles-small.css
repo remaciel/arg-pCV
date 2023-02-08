@@ -89,12 +89,15 @@ ul
 
 }
 .profile 
-{ grid-column: 2 /span 3;
+{ grid-column: 1;
   grid-row: 1;
   pointer-events: none;
   width: 260px;
   height: 260px;
   pointer-events: none;
+  padding-top: 40px;
+  margin-left: 29%;
+	
 }
 
   .elemento1 { 
